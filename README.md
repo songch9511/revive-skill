@@ -6,7 +6,7 @@
 
 An agent skill for projects you vibe-coded, meant to launch, and quietly stopped opening. Revive reads the repo, works out with you why it really stopped, tells you plainly whether to ship it, shrink it or kill it, and then works with you until a stranger pays for it.
 
-[Is this for you?](#is-this-for-you) | [Install](#install) | [Quick start](#quick-start) | [How it works](#how-it-works) | [Status](#status)
+[Is this for you?](#is-this-for-you) | [Install](#install) | [Quick start](#quick-start) | [How it works](#how-it-works)
 
 </div>
 
@@ -125,18 +125,6 @@ Revive runs on its own. When one of these is installed it uses it for the matchi
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) (`copywriting`, `pricing`, `offers`, `prospecting`, `launch`) for the landing page and launch posts
 - The official [Stripe](https://github.com/stripe/ai) and [Polar](https://github.com/polarsource/agent-toolkit) skills for payment integration
 - [deploy-to-vercel](https://github.com/vercel-labs/agent-skills) for deployment
-
-## Status
-
-This is an early draft. It has been checked against its spec, but it has not been run on a real stalled project yet, so expect rough edges.
-
-Not done yet:
-
-- test runs on real projects
-- bundling the design and marketing skills so they ship with Revive
-- packaging as a Claude Code plugin
-
-Issues and reports from real runs are welcome.
 
 ## Credits
 
