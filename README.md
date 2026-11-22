@@ -113,8 +113,6 @@ skills/revive/references/payment-path.md       the plan, demand check, payment r
 skills/revive/references/execution.md          skill routing, task briefs, debugging
 skills/revive/references/prelaunch-checks.md   security checks before launch
 skills/revive/references/state-files.md        templates for .revive/
-docs/specs/revive-skill.md                     the spec this was written from (Korean)
-reports/, research_notes/                      research behind the skill choices (Korean)
 ```
 
 ## Works well with
