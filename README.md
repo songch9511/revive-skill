@@ -13,7 +13,6 @@ Not done yet:
 - test runs on real stalled projects
 - copying the six bundled third-party skills (`frontend-design` and five from `coreyhaines31/marketingskills`)
 - plugin packaging (`plugin.json`, `BUNDLED_SKILLS.md`)
-- a license for this repository
 
 ## Layout
 
@@ -35,3 +34,7 @@ Not done yet:
 ## Credits
 
 The diagnostic interview is adapted from the `interview-me` skill by Addy Osmani ([addyosmani/agent-skills](https://github.com/addyosmani/agent-skills), MIT License). See `skills/revive/THIRD_PARTY_NOTICES.md`.
+
+## License
+
+MIT. See [LICENSE](LICENSE). Third-party work keeps its own license; see `skills/revive/THIRD_PARTY_NOTICES.md`.
