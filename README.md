@@ -2,6 +2,8 @@
 
 # Revive
 
+**English** | [한국어](README.ko.md) | [日本語](README.ja.md)
+
 **Pick your abandoned project back up and take it to its first paying customer.**
 
 An agent skill for projects you vibe-coded, meant to launch, and quietly stopped opening. Revive reads the repo, works out with you why it really stopped, tells you plainly whether to ship it, shrink it or kill it, and then works with you until a stranger pays for it.
